@@ -1,0 +1,16 @@
+html,
+body,
+* {
+  padding: 0;
+  margin: 0;
+}
+
+:root {
+  --black: #000;
+  --blue: #135cc5;
+  --red: #dc2626;
+}
+
+.ratio {
+  background-color: var(--red);
+}
