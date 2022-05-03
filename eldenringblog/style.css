@@ -12,5 +12,9 @@ body,
 }
 
 .ratio {
-  background-color: var(--red);
+  color: var(--red);
+}
+
+.html {
+  background-image: image(eldenring.webp);
 }
